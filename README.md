@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OnurAltayTopaloglu
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning C and Python programminglanguage
+- 💞️ My major is Computer science
+- 📫 How to reach me altay.topaloglu@metu.edu.tr
